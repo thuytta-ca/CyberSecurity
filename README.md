@@ -1,2 +1,2 @@
 # CyberSecurity
-Conestoga College - Cyber Security - Continuing Education
+Cyber Security - Continuing Education - Conestoga College
